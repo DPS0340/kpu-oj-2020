@@ -2,6 +2,8 @@
 #include <string>
 #include <vector>
 
+// 주의! PA 코드
+
 using namespace std;
 
 int main(void) {
